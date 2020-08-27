@@ -1,0 +1,6 @@
+C:\Users\Margarita\source\repos\WebServer\WebServer\bin\Debug\WebServer.exe.config
+C:\Users\Margarita\source\repos\WebServer\WebServer\bin\Debug\WebServer.exe
+C:\Users\Margarita\source\repos\WebServer\WebServer\bin\Debug\WebServer.pdb
+C:\Users\Margarita\source\repos\WebServer\WebServer\obj\Debug\WebServer.csprojAssemblyReference.cache
+C:\Users\Margarita\source\repos\WebServer\WebServer\obj\Debug\WebServer.exe
+C:\Users\Margarita\source\repos\WebServer\WebServer\obj\Debug\WebServer.pdb
